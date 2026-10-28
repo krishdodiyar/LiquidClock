@@ -10,4 +10,5 @@ val clockDesigns: List<WidgetDesign> = listOf(
     ClockWords,
     ClockDual,
     ClockMinimal,
+    ClockLiquid
 )
